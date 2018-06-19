@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--  Main  -->
+    <string name="app_name">MP3 Downloader</string>
+    <string name="market_url">com.euroasiamp3.no</string>
+    <string name="footer_message">Du kjører V1.0.6 av MP3 Downloader</string>
+    
+    <!-- EULA -->
+    <string name="eula">
+        Den offisielle tillatte bruken av dette programmet er begrenset til lydfiler fritt tilgjengelig i det offentlige domenet! Du godtar å bruke dette programmet i vilkår og rammer som spesifisert av Loven i ditt land, Google Android Market og din teleleverandørs Vilkår for tjenester. Programmet er bare et grensesnitt til offentlige søkemotorer og EuroAsia Singapore er ikke ansvarlig i tilfeller av misbruk. Ulovlig bruk av dette verktøyet er strengt forbudt. Du alene er ansvarlig for dine handlinger.
+    </string>
+    
+    <!-- Free Apps & Offers Settings -->
+    <string name="btn_offers_name">Se Videoer</string>
+	<string name="topappsurl">http://freemp3musicdownload.mobi/videos/</string> <!-- For Free App Offers -->
+	
+	<!-- Ad Mobs Banner Ads ID -->
+	<string name="admobBID">a1509c754789a61</string>
+	
+<!--  Languages -->
+    <!-- Content Descriptions -->
+    <string name="logo_icon_desc">Home Button</string>
+    <string name="action_search_desc">Search Button</string>
+    
+    <!-- Buttons -->
+    <string name="btn_search_name">Søk</string>
+    <string name="btn_topten_name">Toppsanger</string>
+    <string name="btn_downloads_name">Nedlastninger</string>
+    <string name="btn_rate_name">Vurder app</string>
+    <string name="btn_share_name">Del app</string>
+    <string name="btn_cancel_name">Avbryt</string>
+    <string name="download_song">Last ned Sang</string>
+    <string name="share_song">Del Sang</string>
+    
+    <!-- Edit Texts -->
+    <string name="edittext_search_hint">Tast inn Sang eller Artist</string>
+    
+    <!-- Names -->
+    <string name="no_results">Ingen treff funnet</string>
+    <string name="error_results">Feil under lasting av resultater</string>
+    <string name="no_active">Det later til at du ikke har en aktiv Internettforbindelse eller har et svakt signal. Vennligst aktiver WiFi eller Data og prøv igjen.</string>
+    
+    <!-- Share Language -->
+    <string name="checkout">Sjekk denne sangen</string>
+    <string name="dlmessage">Hei, last ned denne sangen :) </string>
+    
+    <!-- Toast Make -->
+    <string name="failedloading">Feil under lasting av sang. Vennligst prøv igjen</string>
+    <string name="addedqueue">Nedlastning lagt til i kø</string>
+</resources>
